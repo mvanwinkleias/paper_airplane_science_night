@@ -10,9 +10,6 @@ Also, when we're done, we need to clean up.  You'll probably want to take your a
 
 * Demonstrate how to make a few paper airplanes.
 * Explain how the Scientific Method can be used to have MORE FUN... with PAPER AIRPLANES!
-* Explain how to change flight characteristics.
-	* Weighting.
-	* Folding.
 
 ## Scientific Method!
 
