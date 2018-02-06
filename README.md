@@ -13,7 +13,7 @@ Also, when we're done, we need to clean up.  You'll probably want to take your a
 
 ## Scientific Method!
 
-This is a ROUGH (and, "simplified") outline of the Scientific Method, and how
+This is a shortened (and, "simplified") outline of the Scientific Method, and how
 it can be used to have FUN with PAPER AIRPLANES!!!
 
 * Observe!
